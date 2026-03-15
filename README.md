@@ -39,7 +39,7 @@ This is the backend API for my final project in Integrative Programming (IT15/L)
 | users | 1 | Admin user account |
 | students | 500 | Student demographic records |
 | courses | 20 | Courses across 6 departments |
-| school_days | 217 | Academic calendar Aug 2024 - May 2025 |
+| school_days | 205 | Academic calendar Aug 2024 - May 2025 |
 
 ---
 
@@ -80,8 +80,4 @@ DB_PASSWORD=
 
 ---
 
-## Default Login
-
-- Email: admin@school.edu
-- Password: password123
 
